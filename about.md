@@ -9,14 +9,14 @@ Since then, I've pretty much read every variation of the "How do I become a Fron
 
 * Started with catching up on the latest developments on HTML5 and my old friend CSS3.
 
+* Learned to work with modern CSS Frameworks(Bootstrap) to build sites quickly. This felt like cheating.
+
 * Worked with Vanilla Javascript and remembered it being easier than when I tried learning it in high school. Maybe I'm just smarter? Or maybe, my teachers we're right, I really wasn't applying myself hard enough.
 
-* Tried jQuery for the first time. It was like going from stick shift to fully automatic.
+* Tried jQuery for the first time. It was like going from stick shift to fully automatic. This really felt like cheating and now I understood why my friends recommended learning vanilla JS before I learned to use jQuery.
 
 * Started working with creating Objects/JSON in simple web apps.
 
-* Learned to work with modern CSS Frameworks(Bootstrap) to build sites quickly.
+* Dusted off my Rasberry Pi so that I could install a LAMP stack to run wordpress on it.
 
-* Dusted off my Rasberry Pi so that I could install a sample LAMP stack to run wordpress on it.
-
-* Decided it wasn't 2005 anymore, instead this is currently being hosted on gitHub using Jekyll. Plus it forced me to work with and learn how to use git in both windows and linux.
+* Decided it wasn't 2005 anymore  (and also my ISP wasn't being friendly with me hosting a server on a residential connection, there were issues), so instead this is currently being hosted on gitHub using Jekyll. Plus it forced me to work with and learn how to use git in both windows and linux.
