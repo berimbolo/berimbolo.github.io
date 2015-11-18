@@ -12,3 +12,11 @@ Since then, I've pretty much read every variation of the "How do I become a Fron
 * Worked with Vanilla Javascript and remembered it being easier than when I tried learning it in high school. Maybe I'm just smarter? Or maybe, my teachers we're right, I really wasn't applying myself hard enough.
 
 * Tried jQuery for the first time. It was like going from stick shift to fully automatic.
+
+* Started working with creating Objects/JSON in simple web apps.
+
+* Learned to work with modern CSS Frameworks(Bootstrap) to build sites quickly.
+
+* Dusted off my Rasberry Pi so that I could install a sample LAMP stack to run wordpress on it.
+
+* Decided it wasn't 2005 anymore, instead this is currently being hosted on gitHub using Jekyll. Plus it forced me to work with and learn how to use git in both windows and linux.
