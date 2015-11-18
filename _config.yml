@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               code X jitsu
-tagline:             'A developers blog'
+title:               codeXjitsu
+tagline:             'Mens sana in corpore sano'
 description:         'A Chicago based web developer and <a href="https://youtu.be/r8q6vTijil0">Brazilian Jujitsu addict</a>'
 url:                 'http://berimbolo.github.io'
 baseurl:             ''
