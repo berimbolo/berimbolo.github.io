@@ -7,6 +7,8 @@ My name is Alex Ruiz. I've been serious learning web development for the last tw
 
 Since then, I've pretty much read every variation of the "How do I become a Front End developer" question that seems to pop up in Quora and /r/webDev all the time and everytime I've grabbed the best answers and try to follow them best I could.
 
--Started with catching up on the latest developments on HTML5 and my old friend CSS3.
+*Started with catching up on the latest developments on HTML5 and my old friend CSS3.
 
--Worked with Vanilla Javascript and remembered it being easier than when I tried learning it in high school. Maybe I'm just smarter? Or maybe, my teachers we're right, I really wasn't applying myself hard enough.
+*Worked with Vanilla Javascript and remembered it being easier than when I tried learning it in high school. Maybe I'm just smarter? Or maybe, my teachers we're right, I really wasn't applying myself hard enough.
+
+* Tried jQuery for the first time. It was like going from stick shift to fully automatic.
