@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample post two
+title: Sample post three
 ---
 
 Lorem Ipsum
