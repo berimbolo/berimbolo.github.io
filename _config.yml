@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               code X jitsu
 tagline:             'A developers blog'
-description:         'A Chicago based web developer and Brazilian Jujitsu addict'
+description:         'A Chicago based web developer and <a href="https://youtu.be/r8q6vTijil0">Brazilian Jujitsu addict</a>'
 url:                 'http://berimbolo.github.io'
 baseurl:             ''
 paginate:            5
