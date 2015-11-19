@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why am I here?
+title: First Post!
 ---
 
-Sample Post.
+Hello World!
