@@ -2,5 +2,4 @@
 layout: page
 title: Contact
 ---
-     <p> {{ site.email }}</p>
-     <br>{{ site.description }}
+     <p> Alejandroruiz@gmail.com</p>
