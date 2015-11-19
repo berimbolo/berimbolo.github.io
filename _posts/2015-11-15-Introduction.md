@@ -3,28 +3,6 @@ layout: post
 title: First Post!
 ---
 
-When it comes to learning how to program my goal is simply, to suck just a little bit less everyday.
-
->"The incremental, tiny satisfactions of being a little bit less awful at something every day...I'm learning an entirely new skill, a very difficult one."
-
-I'm stealing this quote from Anthony Bourdain, a personal hero of mine for various reasons, his witty and morose nature as he travels around the world is appealing to me. His taste in music include [The Stooges, The New York Dolls, and The Brian Jonestown Massacre](http://www.rollingstone.com/movies/news/my-favorite-songs-anthony-bourdain-20140411). So clearly a man of good taste.
-
-But also, like me he has become a brazilian jujitsu addict and that is the skill he is talking about learning. He describes the process of learning the art better than I could, I think.
-
->"When I go to the gym, inevitably, as happens in jiu-jitsu, you are presented with a series of problems, which chances are, you do not solve [laughs]. When I finish at the gym, I'm thinking for the rest of the day about how I can go in the next day and suck a little bit less than I did today.
-
-For me, I don't really have a goal in mind. I'm just looking to suck a little bit less every few weeks. It's very satisfying when something actually clicks and I can see improvement. When I don't spend an entire hour squashed on the mat, that's very satisfying."
-
-Quite simply, this is how I feel everytime I open up sublime and I hack away at some code. Trying to diligently follow the tutorial or book's example. Frustration usually follows, as I try to figure out where I went wrong and then after lots of googling and breaking the problem down step by step, there's a point where I get something to work. That's where I want to run around the coffee shop where I usually study and high five the hipsters and yoga moms sitting across from me, because I got the damned thing to work like it was supposed to finally. But I don't, because that would be frowned upon, probably.
-
-Also, like jujitsu, the key to improving seems to be doing a little bit everyday. Repetition, over and over. Everytime I go over the same concept, a little bit more sticks. I see the connections and commonalities between what I thought was unrelated when I was a total newbie.
-
-I'm not the most physically gifted person, far from it, in fact I'm probably the least physically gifted athlete at my gym. I would say that out of 10 people that walk onto the mats, 9 of them are taller, stronger, faster, and more agile than I ever will be. But because I've been going for almost 3 years now, 4-5 times a week, I'll be able to beat them or at the very least survive no matter how big or strong they are.
-
-Also, out of 25 people that come to train, only 1 with stick with it longer than six months. Maybe 1 out of 50, will stick around the year or year and a half to get their first promotion to blue belt. Out of those that make it to blue belt, half will quit before they get the next belt (purple).
-
-What separates them? Yes, some just have natural talent, but natural talent will always hit a wall, those who become experts invariable have the deadly mix of natural talent and grit. Mostly grit and the drive to just suck less every day.
-
-And that's me.
-I know that the difference between me learning to be a proper developer and the legions wannabe's chasing a check, is that I'll stick with it, long after they've given up. And also, in this field, unlike sports I have an edge, if you put me in a room with 100 people, I may not be the strongest, the tallest or the swiftest, not even close. But I certainly wouldn't be the dumbest, I'd hate to brag but I'd be in the top 10 for sure. Mama didn't raise no fool. 
-There's two things you can't teach and that's heart and brains, luckily for me I have both.
+Testing, testing.
+One, two, three.
+Testing.
