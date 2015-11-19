@@ -16,7 +16,7 @@ paginate:            5
 author: Alex Ruiz
   name:              Alex Ruiz
   url:               https://twitter.com/alexruiz1871
-  email:             alejandroruiz1871@gmail.com
+  email:             'alejandroruiz1871@gmail.com'
 
 # Custom vars
 version:             1.0.0
