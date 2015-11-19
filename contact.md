@@ -2,4 +2,4 @@
 layout: page
 title: Contact
 ---
-      {{ site.email }}
+     <p> {{ site.email }}</p>
