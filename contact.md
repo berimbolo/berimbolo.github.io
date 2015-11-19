@@ -3,4 +3,4 @@ layout: page
 title: Contact
 ---
 
-Alejandroruiz@gmail.com
+Alejandroruiz1871@gmail.com
