@@ -9,7 +9,7 @@ title:               code x jitsu
 tagline:             'Sucking a little bit less every day.'
 description:         'A Chicago based web developer and <a href="https://youtu.be/r8q6vTijil0">Brazilian Jujitsu addict</a>'
 url:                 'http://berimbolo.github.io'
-baseurl:             ''
+baseurl:             '' 
 paginate:            5
 
 # About/contact
