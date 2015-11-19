@@ -13,9 +13,9 @@ baseurl:             ''
 paginate:            5
 
 # About/contact
-author: Alex Ruiz
+author:
   name:              Alex Ruiz
-  url:               https://twitter.com/alexruiz1871
+  url:               
   email:             alejandroruiz1871@gmail.com
 
 # Custom vars
